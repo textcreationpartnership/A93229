@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Saints refvgeʺ A sermon / preached by a reverend divine, and now published by a welwiller to the truth for the comfort of Gods people.</title>
+         </titleStmt>
+         <extent>Approx. 47KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93229</idno><idno type="EEBO-CITATION">45097931</idno>
+  <idno type="VID">171507</idno>
+  <idno type="EEBO-PROQUEST">2240869605</idno>
+  
+            <idno type="STC">Wing S364A</idno>
+            <idno type="STC">ESTC R183193</idno>
+            <idno type="OCLC">45097931</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171507)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Saints refvgeʺ A sermon / preached by a reverend divine, and now published by a welwiller to the truth for the comfort of Gods people.</title>
+               </titleStmt>
+               <extent>57, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iames Moxon or Thomas Lappadg, and re [sic] to be sold at his shop neree the Iron-Bridge,</publisher>
+                  <pubPlace>Rotterdam :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Hebrews VI, 18 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171507:1"/>
+            <pb facs="tcp:171507:2"/>
+            <pb facs="tcp:171507:2"/>
+            <p>THE SAINTS <hi>REFVGE A</hi> SERMON PREACHED by A Reverend DIVINE, and now published by a Wel-willer to the Truth for the comfort of Gods people.</p>
+            <q>
+               <bibl>
+                  <hi>PSALME. 9.9.</hi>
+               </bibl>
+               <p>The Lord also will be a Refuge for the oppressed: a refuge in times of trouble.</p>
+            </q>
+            <p>ROTTERDAM Printed by IAMES MOXON or THOMAS LAPPADG, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re to be sold at his shop neree the <hi>Jron-Bridge</hi> 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:171507:3"/>
+            <pb n="3" facs="tcp:171507:3"/>
+            <head>To the Reader.</head>
+            <p>GEntle Reader, Troublesome times wherein Gods people are chased and persued, by feares with<g ref="char:EOLhyphen"/>out, and terrors within, so as they find little or no rest: do require many places of refuge. And mee<g ref="char:EOLhyphen"/>ting with this sermon (though onely taken by pen from the Preachers mouth) wherein I find the onely safe Refuge for a poore distressed Soule described, as also the way to it, and the safetie and securitie in it? J thought good to Put it to Presse, (though without the Privity of the Author, for which cause I also conceale his Name) in hope that though there be many subjects of this nature abroad already, yet that this also shall be welcome to some, and not without its fruit in Gods glory, and the comfort of wearied fain<g ref="char:EOLhyphen"/>ting
+<pb n="4" facs="tcp:171507:4"/> soules: Wherefore as I desire acceptance with thee of my endea<g ref="char:EOLhyphen"/>vours, so and much more J desire the blessing of God may goe along with it, to blesse it to thee, and commit thee to the same blessing in Iesus Christ. Amen.</p>
+            <closer>
+               <salute>Farewell</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:171507:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>HEBR. 6.18.</hi>
+                  </bibl>
+                  <p>That by two immutable things, in which it is impossible for God to lye we might haue strong consolation, who haue fled for refuge to lay hold upon the hope set before his.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T hath alwaies been the manner of the wicked to set them<g ref="char:EOLhyphen"/>selues against the people of God, and the people of God are ready to be in great feares, by reason of the malice of the wicked, for
+<pb n="6" facs="tcp:171507:5"/> which the Lord seemeth to chide his people as it were, as Isai. 51.12.<note place="margin">Isai 51 12.</note>
+               <hi>I am he that comforteth you, who art thou that thou shouldest be afraid of a man, or of the Son of man that shalbe made as grasse?</hi> And as a remedy for this, he hath appointed many Officers to look to his Church, and to shew her, that as a shepheard is care<g ref="char:EOLhyphen"/>full over his flock, so will God be, and much more over those that are his: The Angels of the Church, that is the mini<g ref="char:EOLhyphen"/>sters, must speak to them as the Angell did to Paul, <hi>Feare not for I am with thee,</hi>
+               <note place="margin">Act 27.24.</note> and we liue under such a Prince blessed be God for it, who is a harbou<g ref="char:EOLhyphen"/>rer of the people of God: We for our parts cannot but heare what the enemies of God threa<g ref="char:EOLhyphen"/>ten against us, now the Lord in this text hath shewed us, where
+<pb n="7" facs="tcp:171507:5"/> we may be safe and secure, out of the reach of them all, Here in this Citty of Refuge, is a Harbour a Sanctuary, if God be pleased to manifest it to our soules. This Text sheweth unto us where we may haue safety against all our enemies.<note place="margin">Psal 32 7. &amp; 119.114.</note> The Lord in the psalmes teacheth his people where they may find a hiding place against his wrath, then much more will hee defend them against his enemies. The Lord is onely our safety to be found, as for men, if you flie to them, they will proue misera<g ref="char:EOLhyphen"/>ble comforters, so that we shall be at a losse, and cry as Reuben did, <hi>whither shall I go?</hi>
+               <note place="margin">Gen 37.30.</note> The Lord here dealeth with his peo<g ref="char:EOLhyphen"/>ple, as he did sometimes with the Israelites when they were in E<g ref="char:EOLhyphen"/>gypt, and he was intended to de<g ref="char:EOLhyphen"/>stroy all the first borne of the E<g ref="char:EOLhyphen"/>giptians, he taught them how
+<pb n="8" facs="tcp:171507:6"/> they should be secure, what they should do: that they might not be touched. He doth to them as Solomon did to Shimei, he ap<g ref="char:EOLhyphen"/>pointed him a place, that if hee would keepe in and abide hee should be safe, but if he went out his life was in danger. Jn these verses, there are three things con<g ref="char:EOLhyphen"/>siderable.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First. The benefits that God doth intend to his people, and that is, strong consolation, such whereby they are able to master all miseries, and to withstand all troubles, and to ward of all the blowes that the wicked doe aime at them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly The meanes where<g ref="char:EOLhyphen"/>by this should be done, and that is in the beginning of the vers, the covenant God made with them and the promise.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly. The persons that
+<pb n="9" facs="tcp:171507:6"/> shall enjoy this, and to whom this benefit is intended, and they are the heires of the promises, which are set out unto us two waies, whereby every one may know whether he be such an one as to whom these benefits doe belong.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First by a double act one at the end of another, namely they shall fly and take hold.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly the place whither they shall flye, and that is descri<g ref="char:EOLhyphen"/>bed unto us three waies.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First by rhe properties of it, it is like a Refuge, an Altar, or a Sanctuary.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly by the effect of it, which it worketh in them, it wor<g ref="char:EOLhyphen"/>keth hope in them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly the scituation of it, it is before them, whereby they haue accesse unto it, A man see<g ref="char:EOLhyphen"/>keth not after that which he can<g ref="char:EOLhyphen"/>not
+<pb n="10" facs="tcp:171507:7"/> apprehend, but the appre<g ref="char:EOLhyphen"/>hension of the thing maketh him seek after the attaining of it, now all this is spoken in the Allegory, The Lord alludeth to an appoint<g ref="char:EOLhyphen"/>ment that he made to the Iewes, in the time of the old Law. If one did kill another unawares, not bearing mallice against him for<g ref="char:EOLhyphen"/>merly, he should fly to the cittie of refuge, and there he should be safe, now of these Citties God commanded there should be sixe in the twelue tribes of Israel, so that in every two tribes there should be a citty as you may see Deut. 19. but if the city were a great way of, and the Temple were neerer then the City, then should they fly to the Temple, and lay hold upon the hornes of the Altar, and so they should be secure and safe from the avenger of bloud, in like manner it is with
+<pb n="11" facs="tcp:171507:7"/> us, there is none of us but hath shed bloud every man in particu<g ref="char:EOLhyphen"/>lar, none in any family, but is guilty of bloud, even of the blood of the Lord Iesus Christ: the Iewes were but our slaues, for that which they did we do, as those that come to the Sacrament unworthily, when they take hold of the bread, it is like the laying hands upon Christ, as the theeues laid hold on Christ to take him, the lifting up of the bread to thy mouth is like the souldiers lifting up Christ to the Crosse, the pow<g ref="char:EOLhyphen"/>ring down of the wine, is like the souldiers shedding of bloud, by piercing of Christ, the flocking of unworthy receivers in the Church in the morning, is like the com<g ref="char:EOLhyphen"/>pany that came to apprehend Christ, the singing of Psalmes, in time of Celebrating the Sacra<g ref="char:EOLhyphen"/>ment is like the mocking of
+<pb n="12" facs="tcp:171507:8"/> Christ, the ministers that giue it in a carelesse manner do as Iudas did, betray Christ into the hands of sinners, thus every one is guil<g ref="char:EOLhyphen"/>ty of bloud, and God will come and make inquisition for bloud, and when God commeth what shall we do, now every soule that seeth this danger dare not stay in any place, nor rest any where for shelter, but make all hast and flye to the free loue of God in Christ, as unto this Sanctuary, he fleeth as one that is pursued, to the free grace of God, there he makes his aboad, he is never satisfied, he is never quiet, till he come to this city of Refuge, and there he li<g ref="char:EOLhyphen"/>veth as in a Sanctuary, out of the feare of all men and Divels, out of the feare of the Law, and out of the feare of Gods iustice.</p>
+            <p>Now there is one knot in the text to be untied, and that J told
+<pb n="13" facs="tcp:171507:8"/> you before, namely that this altar is the free grace of God, but you find no such word in the text, therefore you are to understand▪ that in Scripture, it is usuall to set out the cause by the effect: as in some places, Christ is called our consolation, as in the 7 chapter of this book, and verse. 9. it is said he hath brought in a better Cove<g ref="char:EOLhyphen"/>nant, and presently after it is said, he hath brought in a better hope, such phrases wee haue many in Scripture, as Rom 5. It is said we haue entred into this grace wher<g ref="char:EOLhyphen"/>in we stand, the doctrine is this.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>
+               </label> The free grace of God is like a city or altar, whereto every soule that flyeth and taketh hold, may liue as in a sāctuary &amp; be secure &amp; safe by the free grace of God, wher by he saveth some not looking to any thing that is in them, nor any work of theirs, but onely to his own good will &amp; pleasure.</p>
+            <pb n="14" facs="tcp:171507:9"/>
+            <p>This doctrine consisteth of 3, parts or is compounded of 3. ingredients. First he that will haue this benefit must flie. Secondly he must lay hold. Thirdly the privi<g ref="char:EOLhyphen"/>ledges he shall haue when he is en<g ref="char:EOLunhyphen"/>tred in, he shal liue in a Sanctuary.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Part. </seg>1</label> The first part of the Doctrine is, that he which will haue this benefit must flie. Here is the carriage of the soule when hee maketh after Christ, he fly<g ref="char:EOLhyphen"/>eth after him, as Jer. 3.20, In this act of flying that you may not be mistaken, consider these three things, <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The soule appre<g ref="char:EOLhyphen"/>hendeth it self pursued. 2. It dares not stay any where, in any other place. 3 Jt maketh hast to enter in First. It apprehends it self pursued the Lord bringeth the soule to an impossibillity of it self to be saved and therefore it makes hast to flie away, as Jsa. 13 14.</p>
+            <pb n="15" facs="tcp:171507:9"/>
+            <p>The people God are com<g ref="char:EOLhyphen"/>pared to doues,<note place="margin">Jsa. 60.8.</note> that <hi>flee to the holes of the windowes,</hi> they flee as one that is pursued.</p>
+            <p>When the guilt of sin doth pursue the soule, it maketh the soule flee, and the Lord hath said rhat sinne shall haunt the ungodly.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly the soule dares not make any stay any where,<note place="margin">Gen. 19.</note> nor take shelter any where, untill it come to the citty of Refuge.</p>
+            <p>The soule doth as Lot did, when he was going out of Sodome, at the first hee was to goe to the mountaines, but he pleaded with God that he might be in Zoar: he thought he should not be able to attain the mountains, and therfore he beg'd of God that he might be there, but yet afterward he dares not abide there, he is never quiet till he come to the mountaines,
+<pb n="16" facs="tcp:171507:10"/> where God had appointed him to be. So a soule that is pursu<g ref="char:EOLhyphen"/>ed, that is seeking of this Temple, of this City of refuge, it is hold<g ref="char:EOLhyphen"/>en under with terrour, thererfore it beggeth of God, that it might honour God in publike employ<g ref="char:EOLhyphen"/>ments, or in private duties, if it pleaseth God. Now when it cannot get to this, then it dares not stay there, but it pursueth on, the soule dares not stay in any parts, or in any thing which it is able to peforme of it selfe. If an Jsraelite killed a man, doe you thinke that he would goe into the field, where he had killed him, or into his owne house or into his owne bed; Where would the avenger of bloud seeke him sooner then in such places? Thus it is with the soule, it will not goe to its parts, and performances, for places of rest; Now in the
+<pb n="17" facs="tcp:171507:10"/> spirituall sence, Gods people are troubled with self-shifting, and many times in this regard, they put of comfort,, they do as it were refuse the City of Refuge as David faith in the 142 Psalme <hi>All refuge faileth me,</hi>
+               <note place="margin">Psa 142 4 Act 27.20.</note> and as Paul sayeth in the Acts, <hi>All hope seemed to faile:</hi> A soule in such a Case makes hast to be possessed of the City of Refuge, it flies to the free grace of God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Part. </seg>2</label> The second part of the Doct<g ref="char:EOLhyphen"/>rine is, He that will enioy this benefit. must lay hold upon it, he must venter himselfe upon it, cast himselfe, nay lay such hold as all the Devils of hell bee not able to pluck it from him, so that hee is resolved, here is my comfort,<note place="margin">Hest. 4.16.</note> here I will rest, <hi>Jf J perish J perish,</hi> for that City of Refuge is said to be set before him, and it is an ad<g ref="char:EOLhyphen"/>mir able phrase like to that in the
+<pb n="18" facs="tcp:171507:11"/> Hebrewes 12.<note place="margin">Heb 12 2.</note> Our Saviour Christ for the joy that was set before him, endured the Crosse despised the shame, for he knew that he should goe from thence to a Paradise to a place of rest, so the city of refuge is set before a child of God, and for the Joy of it makes him venture all, the Lord in the olde law appointed it so, that the city of refuge should not be far of, or if it were, If the Temple were neerer, they should flee thi<g ref="char:EOLhyphen"/>ther to the Altar, and this Altar was set in the outward court where all the people might come. Jos. 20 The Lord commanded the Levits that <hi>they should open the gates of the City of Refuge to him that fled thither,</hi>
+               <note place="margin">Jos. 20.</note> now the minist<g ref="char:EOLhyphen"/>ers of God do as it were keep the keyes of the gate of this City of refuge, the Lord commanded them that they should set them
+<pb n="19" facs="tcp:171507:11"/> open, that if any came they might let them in, Jt is true the Levits were first to examine those that came, before they let them in, so must the ministers do, they must try the causes of such as come for refuge, every stubborne sinner, and every impenitent sinner must not be let in, but every humble sinner that sinnes unwillingly, that is humbled for his sin, they must be let in: for such the Lord hath given charge to his mini<g ref="char:EOLhyphen"/>sters.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First They must be invited, and that they may be emboldned to come, invite them in the name of God to come, and buy this wine and milke without money.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly. Ministers must not onely invite them, but intreate them, and perswade them, for it is a great part of the work of the ministers, to bring them into the
+<pb n="20" facs="tcp:171507:12"/> City of refuge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly. They must bring out the Charter of the City, and open the Covenant to them, and shew them what God doth con<g ref="char:EOLhyphen"/>uey to them in his word and Sa<g ref="char:EOLhyphen"/>craments, and so you haue the fourth thing which the ministers haue to do which is.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly They must make them know the oath that God hath laid upon himselfe. for their safety, that hath sworne by him<g ref="char:EOLhyphen"/>selfe, that he is willing to be coun<g ref="char:EOLhyphen"/>ted God no more if they be not safe and secure, nay God is bound to thē in this case, &amp; this is a won<g ref="char:EOLhyphen"/>derfull thing, that God that doth all things in the world freely, yet is pleased to let them know, that hee is not free in this, but he hath bound himselfe to them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fiftly. The ministers are to let the people know that God
+<pb n="21" facs="tcp:171507:12"/> takes it very ill at their hand, if they refuse to come in, God is the builder of the City of refuge, he hath prepared it for them, he layed the foundation of it in the bloud of his Son, and he takes it very ill at their hands that will not come to it, Oh therefore why do you seek to other things, why do you lay out your money for that which is not bread, in the next place, if after all this they will not come in, God hath charged his ministers and they must.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixtly Lay a command upon you, this is the command of God that ye beleeve in his Son, Ioh 3.23 &amp; this God requires, and straitly charges, and without comming into this City, without hiding in this place, there is no comfort this the Lord hath made known to be the duty of his Ministers.</p>
+            <pb n="22" facs="tcp:171507:13"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">part </seg>2</label> The second part of the doct<g ref="char:EOLhyphen"/>rine is, that the soule, after enter<g ref="char:EOLhyphen"/>ing into the city, or taking hold on the hornes of the Alter, liueth as in a sanctuary. Isai. 25.3.<note place="margin">Jsai 25.3.</note> There<g ref="char:EOLhyphen"/>fore shall the mighty people giue glory unto thee, The city of the strong nations shall feare thee. We haue three strong nations that are ioyned together, now if God be our city of refuge, wee shallbe too hard for all the world, what euer trouble come upon us, yet we shallbe quiet here in this city. Againe when the soule gets into this city, oh what a pitch of undauntednesse is it come to: it is a phrase that Iob useth. <hi>They shall laugh in time of famine,</hi>
+               <note place="margin">Iob 5.22.</note>
+               <hi>when the sword commeth, they shall reioyce.</hi> Now we must not thinke that they are senclesse blocks, not to be troubled for nationall iudg<g ref="char:EOLhyphen"/>ments and afflictions, Godforbid
+<pb n="23" facs="tcp:171507:13"/> they should be so, but they are so comforted, in God, that they are quiet from the feare of all euill that can come, for what ever evill come, it shall not overthrow their Faith, nor breake their peace with God, they are quiet from the feare of euill Isai. 26.3.<note place="margin">Isa. 26.3.</note>
+               <hi>the righte<g ref="char:EOLhyphen"/>ous nation that get to his city, shall be kept there in perfest peace,</hi> they that liue in this city shall liue in perfect peace, such a peace that the world hath no skill of, such a peace as passeth all understanding when they look upon trouble they are not afraid, and why? because they are stayed upon God for they know God cannot break his promise. I would ask any ge<g ref="char:EOLhyphen"/>nerous spirit, what it is would trouble him, he would answer breaking of his promise, and de<g ref="char:EOLhyphen"/>ceiving one that trusts in him, now in this respect, shall not wee
+<pb n="24" facs="tcp:171507:14"/> thinke the Lord will much more be carefull to keepe his promise, Now in stead of reasons, J will lay downe something to shew the incongruity and the congruity that is betweene the city of re<g ref="char:EOLhyphen"/>fuge, and the free grace of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First. For the incongruity, there was many cities of refuge, but here is but one, at the death of the high priest, that might go out, but the death of the high priest, is the is the entring into this city.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly. The congruity of it. First he that got into the city of refuge, or laid hold on the hornes of the Altar, he was sure to saue his life. So he that cast himselfe upon the promise of God he is sure of life and liberty, for whatsoever promise God hath made, If the soule will but cast it selfe vpon it. God is bound to fullfill it as namely the promise of
+<pb n="25" facs="tcp:171507:14"/> long life. A soule that will chal<g ref="char:EOLhyphen"/>enge God of his promise he shall haue long life, unlesse he will bee willing to giue God in his pro<g ref="char:EOLhyphen"/>mise againe, as some in respect of the evill times, and their owne sins, being weary of their liues, are willing to dye, and giue God his promise againe, like a tenant, that giue his Land-lord in his lease againe, this is the onely way to liue safely, The Iust shall liue by his faith Hab 2.<hi>4:</hi>
+               <note place="margin">Hab. 2.4.</note> Some shall liue by their shifts, and some by their wits, but the <hi>Iust shall liue by his faith,</hi> they shall liue safe, when thousands shall fall on the right hand and ten thousands on the left yet they shall be secure, but this may be understood in the literall sence, Nahum: 17:<note place="margin">Nah 1.7.</note>
+               <hi>The louing kind<g ref="char:EOLhyphen"/>nes of the Lord shall be a strong hold in the day of trouble.</hi>
+            </p>
+            <p>It was not only defensiue to
+<pb n="26" facs="tcp:171507:15"/> him that fled thither but it was of<g ref="char:EOLhyphen"/>fensiue to them that came against him Ioshua 20.5. If any came to offer violence to any that were fled to the city of refuge, the priests and Inhabitants of the city were to repell them force by force, the people of God are counted a company of poore snakes, and the wicked they per<g ref="char:EOLhyphen"/>secute them, but this city of re<g ref="char:EOLhyphen"/>fuge is defensiue to them, they haue ordinances, will defend them from all, the promises of God are Artillery, and therefore take them up and use them: Jeho<g ref="char:EOLhyphen"/>saphat when a great company of Enemies came against him,<note place="margin">2 Chron <hi>20.</hi>
+               </note> hee pleaded promises, And when any bring the promises against the ene<g ref="char:EOLunhyphen"/>mies of God they are like to the dis<g ref="char:EOLunhyphen"/>charg &amp; murdring of shot, there is never a servant of God that comes to God with a promise but hee
+<pb n="27" facs="tcp:171507:15"/> makes the kingdome of darkenes shake.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly he that did lay hold on the hornes of the Altar did live at harts ease, for what did he doe, he lived and discoursed with the Le<g ref="char:EOLhyphen"/>vits, and heard the sweet sermons he might not be prest into the Kings warres for a Souldier, nor arrested for any debt.</p>
+            <p>Thus it is with a Christian that gets into the City of refuge, he comes then to liue at his heartes ease, upon the free grace of God, not upon feeling, Heb 4.10. He speaketh there of rest, by living upon the promise, he lives at rest, they were busied about duties, as there be many duty mongers that liue upon feeling, they haue no such established peace, as they haue afterward, when they come to liue upon the free grace of God, Saith Christ,<note place="margin">
+                  <hi>Ma</hi> 11 2.</note>
+               <hi>All you that are wea<g ref="char:EOLhyphen"/>rie
+<pb n="28" facs="tcp:171507:16"/> and heavie loaden, come unto me and J will ease you:</hi> run not to duties, run not to performances, run not to priviledges, but runne unto Christ, now I come to the use of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>1</label> And the first is to shew the reason why that we ministers that offer Christ freely, and shew that the riches of the mercy of God is free, yet notwithstanding preach terrour, and preach the law, the reason is, because we must fly be<g ref="char:EOLhyphen"/>fore we come to the city of re<g ref="char:EOLhyphen"/>fuge, and therefore why doe any cry out of those that preach the Law? as many do cry, deale no more with us in this sort, but in a gentle manner, but this is the way that men ought to bee dealt withall, because they must first flee before they get into the city of refuge, it is an usuall say<g ref="char:EOLhyphen"/>ing, I had been undone if I had
+<pb n="29" facs="tcp:171507:16"/> not bene undone, so it may be said in this case, J had been condem<g ref="char:EOLhyphen"/>ned, if J had not beene condem<g ref="char:EOLhyphen"/>ned, in mine owne apprehension May many a soule say, had it not been for such a preacher, and had I not been haunted out of my selfe, I should never haue come to vallue Christ, and seene such a need of Christ, nay Christ him<g ref="char:EOLhyphen"/>selfe hath taught us this he that re<g ref="char:EOLhyphen"/>penteth &amp; beleveth shall be saved, the Lord he offereth freely &amp; take him if you can, but you will not unles you see your own emptines, and throw out any thing you hold of your owne in your hand, there<g ref="char:EOLhyphen"/>fore see what the Lord saith in the 3 Ier. 14. ver. God never speaks so much of his loue to his Church in any place of the old Testament as in that,<note place="margin">Ier 3.14.</note> and yet saith the Lord ver. 13. <hi>Onely acknowledg thine iniquity that thou hast transgressed.</hi> Marke
+<pb n="30" facs="tcp:171507:17"/> the context as the Lord saith in a<g ref="char:EOLhyphen"/>nother place, To him that thirst, Christ saith come, and whosoever will, let him take the water of life freely,<note place="margin">Rev. 22 17.</note> It is freely given, and yet there must be a thirst, and there<g ref="char:EOLhyphen"/>fore let us not think hardly of the Ministers that do engage the con<g ref="char:EOLhyphen"/>science, and presse upon the soule that which is not necessary.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>2</label> Secondly It shewes the folly of those that wonder why men do so flock after Sermons as they do, say they, what need all this adoe, even as they said of the box of ointment,<note place="margin">Math 26.8.</note> to what purpose is this wast? so say they, what needs all this adoe? To whom J answer Aske the soule that flyeth, that thinketh long till he come to the city of Refuge, and he will tell you what need there is, many are ready to think, This will do alone as hay makes in Iune alone, if they
+<pb n="31" facs="tcp:171507:17"/> heare two Sermons on the Sab<g ref="char:EOLhyphen"/>both day, then no question but they shall he saved, but the soule that flieth to the City of refuge conceiveth otherwise of it</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>3</label> Thirdly It is an use of tryall, com<g ref="char:EOLhyphen"/>mune with your own conscience you see what they were to do that fled into the City of refuge, ther<g ref="char:EOLhyphen"/>fore try you self, Here be many that I haue seen your faces twenty yeares agon, I would know what you are, every one that came to the city of refuge was to passe un<g ref="char:EOLhyphen"/>der a double tryall. First he must be tryed by the Elders of the City before he entred into the gates thereof. Secondly hee must bee tryed by the Iudges of the citie, Now the rules of tryall are these, Haue you fled into the citie of re<g ref="char:EOLhyphen"/>fuge? Hath the Lord brought you to see your lost condition, and hath this made you flie, though
+<pb n="32" facs="tcp:171507:18"/> before you haue gone as a snaile, yet this hath made you runne, and think long till you come to enjoy the free grace of God, and wher<g ref="char:EOLhyphen"/>as you were wont at a stirring ser<g ref="char:EOLhyphen"/>mon to be a little stirred, and haue a few thoughts of returning, now you haue a hundred to one, now you loue such preaching and thinke long for it, this is a signe you are fleeing to the city of refuge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, consider whether you did euer talke with the elders of the city or no concerning your estate and condition J mean the ministers of God, it is true the humiliation of some is a great deal more sencible then the humiliation of some others and it may be you wil say, you neuer had such senciable humiliation as you haue heard such and such haue had, to this I say, neuer trouble your
+<pb n="33" facs="tcp:171507:18"/> selfe about it, if you belong to God you may haue enough of that before you die, but to be sure a man in this condition cannot be free, but at some time or other the Church will take notice of it, and will see that you are one of them that fly, God many times doth with some as hee did with Paul, <hi>smotte him downe from of his horse but yet notwithstanding he sent him to the minister to be cured:</hi>
+               <note place="margin">Acts. 9.</note> though he were smitten in an extraordina<g ref="char:EOLhyphen"/>ry manner, yet he was cured in an ordinary maner.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly. Examine your selues whether you haue gotten the be<g ref="char:EOLhyphen"/>nefit of the Clergy or no, the ci<g ref="char:EOLhyphen"/>tie of refuge did not want the meanes of instruction, for there the Levits lived to instruct and teach them, consider then whe<g ref="char:EOLhyphen"/>ther you haue that benefit or no, if you haue, J am sure you haue
+<pb n="34" facs="tcp:171507:19"/> learned that you never knew be<g ref="char:EOLhyphen"/>fore,<note place="margin">Acts. 9.</note> as the Lord said to Paul, <hi>Goe into the Citie and there it shall be told thee what thou shalt doe,</hi> and so say J, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n you come into the city of refuge, you shall be in<g ref="char:EOLhyphen"/>structed and taught, and you shall know that which you never knew before. A minister then shall be taught how to preach, so as hee may wound the hart of sinners, though he never knew how to do it before, a man shall bee taught how to worship God, and how to wound his sins, which he knew not before, let a minister try if he be gotten into the city of refuge, if he be he shall preach more soule savingly then ever he did in his life for the more a man doth improue Christ to be his Priest, the more he shall enjoy him as his Prophet, to reveale to him the misteries of salvation and the will of Cod.</p>
+            <pb n="35" facs="tcp:171507:19"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> A poore soule is afraid to com<g ref="char:EOLhyphen"/>mit sin, the sanctuary of God is not like to the sanctuary of the pope, where a man may liue and commit all manner of sin, for how great a sinner soeuer he be, if hee be in the popes sanctuary, that is if he be within thirty paces of a Bi<g ref="char:EOLhyphen"/>shop, or within forty paces of a Church if it were a Metropolitan, he may liue secure, Now the Lord hath appointed a city of refuge &amp; a sanctuary, but not for that soule that goeth on still in sin, but one<g ref="char:EOLhyphen"/>ly for him that goeth on with a purpose neuer to sin any more. Jf a man were in the city of re<g ref="char:EOLhyphen"/>fuge, do you not thinke he would walke more carefully then he did before? Would he go with his axe loose on the helue, Or, would he be throwing stones ouer the house againe, If he should kill a man there, whither should he go
+<pb n="36" facs="tcp:171507:20"/> For if he killed one in the city of refuge, then were no helpe for him, so he that is made partaker of this benefit, cannot go with a re<g ref="char:EOLhyphen"/>solution to sin, it is as if a man should goe to the city of refuge to kill: you know he that liued in the city of refuge, was to liue like a stranger, he was to liue from his wife and children, he might not goe home in time of haruest, euen so the people of God whiles they liue here upon earth, they liue like <hi>strangers and pilgrims,</hi>
+               <note place="margin">
+                  <hi>1.</hi> Pet. 2, 11.</note> they liue like men that are not at home they looke for their comfort in heaven, where they shall liue by faith and not by sence, now I pray you consider with your selues how it is with you.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. If you liue as Jf you gaue the world hope that you would returne to it againe, it is a signe you are not in the city of refuge,
+<pb n="37" facs="tcp:171507:20"/> Now do you not giue the world hope you will retutne to it againe by your fashions and complying with the time? Gal. 6. Paul saith <hi>God forbid that J should rejoyce in any thing saue in the crosse of Christ</hi> And why? the reason followeth,<note place="margin">Gal. 6.14.</note>
+               <hi>because the world is crucified to me, And I am crucified to the world:</hi> The world looketh upon mee as one crucified to it, and I looke upon the world as crucified to me, I can despise their honour and ornaments.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Thus doth a man liue that liveth in that City, He is con<g ref="char:EOLhyphen"/>tent to liue there in any con<g ref="char:EOLhyphen"/>dition, though he were de<g ref="char:EOLhyphen"/>spised and mocked of others, so will a man be content to liue in this city, saith he, Let them say what they will I haue enough as long as I enjoy this, Againe I will adde one quaere
+<pb n="36" facs="tcp:171507:21"/> more and that is, What company doe you keepe, I doe not meane when you are at Church, but what company doe you keepe daily, A man that was in the city of refuge, who were his compa<g ref="char:EOLhyphen"/>nions, the priests and Levites and those distressed persons that were fled thither for refuge as well as hee, so hee that is come into this city, what company doth hee keep, He keepeth company with such as himselfe is, as one saith a man may know what ano<g ref="char:EOLhyphen"/>ther is by his company, and if I were to enquire out a husband for my daughter, or a servant for my house, I would enquire what company he kept. Now consider whether you delight in those mi<g ref="char:EOLhyphen"/>nisters that bring you neerer and neerer to heaven, that will direct you to a more exact course of liu<g ref="char:EOLhyphen"/>ing, that will acquaint you with
+<pb n="39" facs="tcp:171507:21"/> the will of God. Are those the companions you delight in, and doe you accompany poore di<g ref="char:EOLhyphen"/>stressed soules that are in the same condition that you are in, Now try your selues, aske your selues, Jf you haue done this or if it bee thus with you If it be soe, you are in this estate &amp; condition then to you the next use doth be long, and so J slide into it and it is an</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>4</label> Use of comfort to those that are gotten into the citie of refuge, Christ is theirs as sure as the bloud is in their veines, if it were not so, I would not say it for a thousand worlds, Here is a well of conso<g ref="char:EOLhyphen"/>lation for you, oh that you would draw out of it, &amp; that you would make use of this comfort that here is to be enioyd, I would haue you a little finer to day, I would haue every one of you hang on your iewels, you that are in the
+<pb n="40" facs="tcp:171507:22"/> free grace of Christ? what is it that you neede to feare? or what is it that should trouble you? Are you troubled because bad men grow great, and great men grow bad?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly it may be it is the divell doth accuse you for many things that you haue done, it may be you would not haue the men of the world know it for a world, it may be you haue written them down, and are afraid the divel should get them, and bring them in for an accusation against you, or what ever it is that doth disquiet thee if thou get into this City of refuge, if all the Divels in Hell should come against thee, and bring all their malice to terrifie thee, yet this will enable thee to go singing to Heaven, if all the malice of all the Divels in Hell were spit into one Divell, and he should resolue that he would
+<pb n="41" facs="tcp:171507:22"/> never let thee alone, but will con<g ref="char:EOLhyphen"/>tinually disquiet thee, he will molest thee in prayer, or hearing, cast but a corner of an eye to this City of Refuge, and this will comfort thee. What is it thou art afraid of? you at the lower end of the Church, for God will haue this dish go round the table, it may be you haue many children, &amp; you know not how to provide for them, your bodies are weake and you never had the wit to get the world, Now know that if you be gotten into the City of refuge you need not care, for he that was gotten into the city of refuge lived upon the portion of the Levits, <hi>the feare of the Lord is a strong tower,</hi> thou maist bring all thy children &amp; throw them down before the Lord &amp; he will provide for them, be thou conscionable in thy call<g ref="char:EOLhyphen"/>ing, &amp; cast thy burden upon the Lord.
+<pb n="42" facs="tcp:171507:23"/> Again what is it you are afraid of? you see some haue many freinds and such and such to shelter them, and thou hast none, and it may be thou maist be driven from house and home and hast nothing to shelter thee withall, Now con<g ref="char:EOLhyphen"/>sider what the wals of the city of refuge were, had it any fortifica<g ref="char:EOLhyphen"/>tion? no, the faithfulnesse of the Levits was the fortification of it, therefore look not to this thing, nor to that, but to God, he will undertake for your deliverance, and the consideration of this, will make you able to stand against all, It was an use amongst the Spar<g ref="char:EOLhyphen"/>tans that they would haue no wals about their city, for said they our wals consists in the strength of our Souldiers so the ministers offer the promises of God and shew the fulnes of his loue, these are the wals and the fortifications
+<pb n="43" facs="tcp:171507:23"/> that are able to shelter a man from the feare of all, if I were to speak in some place I might here make also an use of reproofe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>5</label>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First those that speake against the free grace of God, for such there are in many places that are enemies to a faithfull minister, such there are in some places as teach Iustification by workes, and so confound the doctrine of free grace, whereby many men come to be misled &amp; to be in a distem<g ref="char:EOLhyphen"/>pered condition, hence it is that so many make away themselues, were it not for those the Coroner would not be so much employed as now he is.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly it reproveth a company that trust in their prayers, &amp; think because they pray morning and evening they shalbe saved, though they say no other prayers then then they did when they were 8.
+<pb n="44" facs="tcp:171507:24"/> yeares old, these know not the right way to the City of Refuge.</p>
+            <p>Thirdly It reprooveth those that are duty-mongers, that haue been vile and base heretofore, and now they will take up an other course, now they pray, now they reforme, now they forsake their sin and trust to this, though I would haue a Christian when hee goeth to performe duty, to per<g ref="char:EOLhyphen"/>forme it as though he should me<g ref="char:EOLhyphen"/>rit by it, yet when it is done, to ab<g ref="char:EOLhyphen"/>horre it as if he should be damned for it, as if every Sermon were blasphemy, every prayer abhomi<g ref="char:EOLhyphen"/>nation, now there are many that cry <hi>the temple of the Lord, the tem<g ref="char:EOLhyphen"/>ple of the Lord,</hi> and think they haue hold on the altar, but they haue nothing to do with the free grace of God, how many recufants do you think are in the Church this day, many that are come to the quarters of the City, and yet are
+<pb n="45" facs="tcp:171507:24"/> dead to all the cals and cries and offers of Christ, that haue beene made among them, they dare not lay hold upon Christ in a promise they are as much afraid of it as the souldiers should haue been to lay hold on Christ when they appre<g ref="char:EOLhyphen"/>hended him: they sit &amp; cut out cō<g ref="char:EOLunhyphen"/>fort for such &amp; such an one &amp; say there is comfort for him but they neglect it thēselves, they are afraid to go to the city of refuge, were it not a pitifull thing to see a man in such a conditiō as none could com<g ref="char:EOLunhyphen"/>fort him, such is the condition of these mē, now I say are not you pro<g ref="char:EOLunhyphen"/>fessors of the gospel? how is it that you renounce the gospel, you say, oh J dare not, it is too good for me, now consider what it is to re<g ref="char:EOLhyphen"/>nounce the Gospell, it is an unci<g ref="char:EOLhyphen"/>vill part if a man should send for the minister to come and com<g ref="char:EOLhyphen"/>fort him when he is in trouble
+<pb n="46" facs="tcp:171507:25"/> and when he come he should goe and shut the dore against him and refuse to let him in, but you deale thus with God, you refuse comfort when God offereth it to you and commandes you to come in and to embrace it, but you send them back againe and throw durt as it were in his face, and bid him take it himselfe, you dare not meddle with it, we know that it is the dis<g ref="char:EOLhyphen"/>position of the worst, though they be sinners themselues, yet they will giue to sinners, yea e<g ref="char:EOLhyphen"/>uen to those that are the worst a<g ref="char:EOLhyphen"/>mong men, now would you haue God to be worse then those men, Doe not you all this while sit and blaspheme God in your harts, for what is blasphemy but to say it is not true, &amp; though you haue done so all this while, yet do not so still, for he that doth not do, as he hath been exhorted unto, he goeth
+<pb n="47" facs="tcp:171507:25"/> home and saith God is a lyar,<note place="margin">
+                  <hi>1.</hi> Ioh. 5.10.</note> for <hi>He that doth not beleeue hath made him a lyar.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>6</label> The next use is an use of exhor<g ref="char:EOLhyphen"/>tation. First. To ministers to to stir them up to be more careful to make the way to the city of re<g ref="char:EOLhyphen"/>fuge more plaine, you are more able to speake to me then I am to you concerning this thing, but seeing God hath brought me hi<g ref="char:EOLhyphen"/>ther this day, giue me leaue to presse it a little upon you: that you would prepare the way to the city of Refuge, it is the charge of God in the 19 Deut. that they should prepare the way that so the flyer thither might not be hindred, now the way is prepa<g ref="char:EOLhyphen"/>red after this manner, First by beating downe the hills and raise<g ref="char:EOLhyphen"/>ing the vallies, and repareing the breaches It is repo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted that the way to the city of refuge was to
+<pb n="48" facs="tcp:171507:26"/> be 32 cubits broad, and when all this was done, when there was any turning they used to write upō the turning, refuge, refuge, that so he that did fly might know which way to goe, thus labour to make the way to the city of refuge plain to the people.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First let them know that there is A God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly let them understand their duty to God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly the curse they procure in failing in their duty.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly labour to make them sensible of the dangers, that they are in of this curse.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fiftly, Call upon them to re<g ref="char:EOLhyphen"/>pent and reforme their wayes, to turne from their sin, and to part with any thing, to haue part in Christ, and when you haue thus done then set the city of refuge before them, and bid the poore
+<pb facs="tcp:171507:26"/> soule fly thither for refuge. 2. it exorteth all trembling sinners which finde so much difficulty in laying hold of the city of refuge, Consider how open God hath set this city before you, it is open to all, the Lord doth inuite you to come and commandeth all to come, The Lord desireth not that you should come with your cost, Doe not come with your cakes and bottles of wine as they vse to doe to feasts, this is a pri<g ref="char:EOLhyphen"/>viliedged place, and you must come free. Now for two meanes and some motiues, and so an end, for meanes.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Labour to know the richnes of the builder of this city, it cost no creature in the world any thing to build it, nor any soule a penny to to repaire it, it cost Christ all, and he hath done it, we are readie to be low conceited of Christ, and
+<pb n="50" facs="tcp:171507:27"/> think he would haue vs bring something, we make God a poor God, when wee thinke that hee must be faine to sell Christ for our prayers, or our duties, What had Paul. Or what had Manasseth, Or what had Iacob, Did they giue any thing for Christ, This ci<g ref="char:EOLhyphen"/>ty is offered freely, and as God hath built it, so he doth vphold it what can all the men in the world doe, Can they giue one good word or good thought for Iesus Christ, No, they are all euill, If all the Saints and Angels in hea<g ref="char:EOLhyphen"/>ven and earth should striue and study, they could not countervaile the loue of God to vs in 1 houre. <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly. renounce thine owne ability to beleeue, when thou hast a promise, say I am as unable to beleeue as to keep the whole law, therefore lay it before the Lord and say J cannot beleeue,<note place="margin">Hos: 6.2.</note> It must
+<pb n="51" facs="tcp:171507:27"/> be God that must raise vs up to beleeve for we cannot beleeue of our selues, therefore looke vpon God for helpe, do as the mariners do when the tide is low, they pre<g ref="char:EOLhyphen"/>pare their tackling ready, and then waite for a tide that so they may be ready, so doe thou, goe home and acknowledge that thou hast heard many excelent things, but you can doe nothing of your selfe and therefore resolue to waite up<g ref="char:EOLhyphen"/>on God and desire him that hee would in his due time enable thee Now for motiues to stir us up to get into this city of refuge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First. Consider that this is the onely way of securite, the onely place wherein you shallbe safe at all times, and the more you can assure your selues of the free grace of God, the more safe and secure you shallbe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly. There is a necessity to
+<pb n="50" facs="tcp:171507:28"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="51" facs="tcp:171507:28"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="52" facs="tcp:171507:29"/> get into this city of refuge, we are guilty of our owne bloud, if wee will not labour to get in, whoso<g ref="char:EOLhyphen"/>euer killed a man, if he did not fly to the city of refuge, before the avenger of bloud, found him, hee was guilty of his owne bloud, so is he that doeth not get into this city of refuge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly this is the onely way to be rid of that which troubleth you, if you be troubled with dead nesse of heart, with drowsinesse of spirit, this is the onely way to be rid of it, when David had lost the light of Gods countenance, he was as it were in the suburbes of the City, and therefore he cryeth re<g ref="char:EOLhyphen"/>store to me the joy of thy salvati<g ref="char:EOLhyphen"/>on, this is the way to attaine it, to come to this Altar, you know that where Jsaac escaped, the ram was slain, and therefore lay hold on this Altar, and even there shall
+<pb n="53" facs="tcp:171507:29"/> your corruptions be slain, Paul ex<g ref="char:EOLhyphen"/>horteth us to us to <hi>Giue up our selues a living sacrifice unto God,</hi> and what is the ground of this exhortation,<note place="margin">Rom 12</note>
+               <hi>by the mercy of God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Again, this exhorteth all that are interrested into the city of re<g ref="char:EOLhyphen"/>fuge, goe home and be cheerfull, and tell what the Lord hath done for you, and what is your worke now to doe, but to magnifie the Name of God: there was a poore man that came out of an Almes<g ref="char:EOLhyphen"/>house, an ignorant place, and it pleased God to work upon him, that he would ever be speaking of the free grace of God, he was in the company of 3 or 4 ministers, and he would be speaking of the free grace of God, and said one of them, it doth me good to heare this man speak thus, beloved you that haue God, you haue passed the great sch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llers in the World,
+<pb n="56" facs="tcp:171507:30"/> you haue found that which many haue sought for, even the Philo<g ref="char:EOLhyphen"/>sophers stone that will make you happy in all your conditions, you may make God any thing to you, your righteousnesse &amp; holinesse, you haue entred into Gods rest, and therefore let your heart re<g ref="char:EOLhyphen"/>joyce, and now labour to do what you can for God, for all that you can do it is but a little, as Iacob said to his sons, take but a little balme and honny for a present for the man, meaning that al that they could do was but a little, so say you all you can doe is but a little, &amp; now to conclude: play not the part of a nightman that cannot see when he is well, but when you are well keep your selfe so, let no trouble put you out of comfort, he that hath delivered you from hell will keepe you from falling, but for cautions.</p>
+            <pb n="57" facs="tcp:171507:30"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First take heed that we goe not out of the city, &amp; then if we haue trouble, we shall haue comfort, and wee shall glory in our trou<g ref="char:EOLhyphen"/>bles, as the martirs haue done, as Ierome of Prague said when he was at the stake, and they came to kindle the fire behind him, said he, doe you thinke I am afraide, wherefore then did J come hither so ler not any trouble disquiet us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, As we may not be driven out with stotmes, so we must not go out vainly nor lightly not so much as to take aire, take heed that you do not grow proud &amp; wanton, keep your selues in the loue of God, wind up your selues in the loue of God as in your sheets and lay before you the free pro<g ref="char:EOLhyphen"/>mise, and let us follow God blindfold whithersoe<g ref="char:EOLhyphen"/>ver he calleth us.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171507:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:171507:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:171507:32"/>
+            <head>The Table.</head>
+            <list>
+               <item>NO safety but in God alone. Pag. <hi>7</hi>
+               </item>
+               <item>All are guilty of Christs bloud p <hi>11</hi>
+               </item>
+               <item>The soule must venture to lay hold p. <hi>17</hi>
+               </item>
+               <item>Ministers must open the Couenant, p. <hi>20.</hi>
+               </item>
+               <item>The priviledges of the sanctuary of re<g ref="char:EOLhyphen"/>fuge. pag. 22 23</item>
+               <item>The promise of God is artillery. p <hi>26</hi>
+               </item>
+               <item>To liue upon the promise is to liue at hearts ease. pag. <hi>27.</hi>
+               </item>
+               <item>An empty hand best to lay hold on free grace. pag. <hi>29</hi>
+               </item>
+               <item>Divers rules of tryall. pag <hi>31</hi> &amp;c.</item>
+               <item>Comfort against all evils. pag 39 40</item>
+               <item>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w to doe duties. Pag. 45.</item>
+               <item>Many dead to the offer of free grace through their own feares. Pag 44. 45.</item>
+               <item>Ministers are to helpe them. Pag 48</item>
+               <item>Gods free &amp; willing entertainement of poore soules. Pag. 49.</item>
+               <item>How to obtain helpe of God, freed from all troubles, and our corruptions slain. Pag, 50, 52</item>
+               <item>The duty of them within this city and dan<g ref="char:EOLunhyphen"/>ger of going out, Pag, 54 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+            </list>
+            <pb facs="tcp:171507:32"/>
+         </div>
+      </back>
+   </text>
+</TEI>
